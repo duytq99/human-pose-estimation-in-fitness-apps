@@ -1,0 +1,10 @@
+{
+    "info": {
+        "description": "Penn Action Dataset with COCO annotation format",
+        "url": "http://dreamdragon.github.io/PennAction/",
+        "version": "1.0",
+        "year": 2021,
+        "contributor": "Group 8 CV Project",
+        "date_created": "2021/11/26"
+    }
+}

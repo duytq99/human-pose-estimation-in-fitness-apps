@@ -1,0 +1,74 @@
+{
+    "categories": [
+        {
+            "supercategory": "person",
+            "id": 1,
+            "name": "person",
+            "keypoints": [
+                "head",
+                "left_shoulder",
+                "right_shoulder",
+                "left_elbow",
+                "right_elbow",
+                "left_wrist",
+                "right_wrist",
+                "left_hip",
+                "right_hip",
+                "left_knee",
+                "right_knee",
+                "left_ankle",
+                "right_ankle"
+            ],
+            "skeleton": [
+                [
+                    2,
+                    3
+                ],
+                [
+                    2,
+                    4
+                ],
+                [
+                    4,
+                    6
+                ],
+                [
+                    3,
+                    5
+                ],
+                [
+                    5,
+                    7
+                ],
+                [
+                    2,
+                    8
+                ],
+                [
+                    3,
+                    9
+                ],
+                [
+                    8,
+                    9
+                ],
+                [
+                    8,
+                    10
+                ],
+                [
+                    10,
+                    12
+                ],
+                [
+                    9,
+                    11
+                ],
+                [
+                    11,
+                    13
+                ]
+            ]
+        }
+    ]
+}
