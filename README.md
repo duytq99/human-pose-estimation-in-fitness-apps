@@ -29,5 +29,6 @@ Tải repo này và truy cập vào thư mục chính:
 > `<path-to-video>: là đường dẫn đến video demo, có thể tải ở:` [link](https://drive.google.com/file/d/1KBFxwa-Q7RnfxeNcDYdvctVkfLCdCwSD/view).
 
 > `--draw: Lựa chọn vẽ keypoints`
-
+ ## 3. Kết quả
+ ![Demo](https://giphy.com/embed/zPZvj2dL2FBziBzW7u)
 
