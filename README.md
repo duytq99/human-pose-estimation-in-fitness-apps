@@ -30,5 +30,5 @@ Tải repo này và truy cập vào thư mục chính:
 
 > `--draw: Lựa chọn vẽ keypoints`
  ## 3. Kết quả
- ![grab-landing-page](https://media4.giphy.com/media/zPZvj2dL2FBziBzW7u/giphy.gif)
+<img src="images/demo.gif" width="960" height="540" />
 
