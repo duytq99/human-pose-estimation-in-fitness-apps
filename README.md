@@ -30,5 +30,5 @@ Tải repo này và truy cập vào thư mục chính:
 
 > `--draw: Lựa chọn vẽ keypoints`
  ## 3. Kết quả
- <blockquote class="imgur-embed-pub" lang="en" data-id="a/GZVR83x" data-context="false" ><a href="//imgur.com/a/GZVR83x"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+ ![grab-landing-page](https://i.imgur.com/dnLpImC.mp4)
 
