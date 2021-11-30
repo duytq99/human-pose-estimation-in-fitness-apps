@@ -30,5 +30,5 @@ Tải repo này và truy cập vào thư mục chính:
 
 > `--draw: Lựa chọn vẽ keypoints`
  ## 3. Kết quả
- ![Demo](https://giphy.com/embed/zPZvj2dL2FBziBzW7u)
+ ![Demo](https://imgur.com/download/ZriTyGI/)
 
