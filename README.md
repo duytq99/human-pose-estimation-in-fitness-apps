@@ -26,7 +26,7 @@ Tải repo này và truy cập vào thư mục chính:
 > 
 > `python main.py --path <path-to-video> --draw`
 > 
-> `<path-to-video>: là đường dẫn đến video demo `
+> `<path-to-video>: là đường dẫn đến video demo, có thể tải ở [link](https://drive.google.com/file/d/1KBFxwa-Q7RnfxeNcDYdvctVkfLCdCwSD/view). `
 
 > `--draw: Lựa chọn vẽ keypoints`
 
