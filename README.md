@@ -22,5 +22,11 @@ Tải repo này và truy cập vào thư mục chính:
 > `cd human-pose-estimation-in-fitness-apps`
 
 > `conda activate <env-name>`
+> 
 > `python main.py --path <path-to-video> --draw`
-> <path-to-video>: là đường dẫn đến video demo 
+> 
+> `<path-to-video>: là đường dẫn đến video demo `
+
+> `--draw: Lựa chọn vẽ keypoints`
+
+
