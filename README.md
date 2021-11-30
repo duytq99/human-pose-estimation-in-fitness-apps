@@ -10,6 +10,7 @@ Các thư viện sử dụng trong project này được liệt kê ở file [re
 - `numpy==1.21.2`: xử lý dữ liệu dạng ma trận số
 - `pandas==1.1.5`: xử lý dữ liệu dạng bảng
 - `scikit_learn==1.0.1`: xây dựng các mô hình học máy cơ bản
+- `opencv-python==4.5.4`: đọc và xử lý hình ảnh/video
 - `mediapipe`: Thư viện hỗ trợ trích xuất keypoints, sử dụng kiến trúc blazepose
 
 Để cài đặt các thư viện trên, thực hiện lệnh sau:
