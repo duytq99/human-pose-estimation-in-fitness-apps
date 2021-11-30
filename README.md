@@ -1,4 +1,4 @@
-# HUMAN-POSE-ESTIMATION-IN-FITNESS-APPS
+# HUMAN POSE ESTIMATION IN FITNESS APPS
 ## 1. Cài đặt môi trường và thư viện cần thiết
 Project này được cài đặt trên môi trưởng ảo được tạo bởi `miniconda`. Lựa chọn phiên bản phù hợp và cài đặt `miniconda` tại [link](https://docs.conda.io/en/latest/miniconda.html).
 
